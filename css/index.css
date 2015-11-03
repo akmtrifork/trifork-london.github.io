@@ -1,4 +1,10 @@
+img.person {
+    width: 160px;
+}
+
 .header-container {
-  background-image: url('../images/background/bg_fade.jpg');
-	background-size: 100%;
+  background-color: #ff7800;
+  background-size: 100%;
+  color: white;
+  font-size: 16pt;
 }
